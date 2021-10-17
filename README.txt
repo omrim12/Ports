@@ -1,5 +1,4 @@
 Student name: Omri bar-haim
-Student ID: 315696161
 
 Few important details of project implementing decisions:
 ----------------------------------------------
